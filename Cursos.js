@@ -20,3 +20,6 @@ function mostrar(i, k) {
 }
 
 mostrarCursos(cursos);
+
+const {curso}=require('./crearArchivo');
+
