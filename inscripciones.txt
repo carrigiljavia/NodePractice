@@ -1,0 +1,2 @@
+Bienvenido a esta primera prueba Curso seleccionado: 1 - Nombre del curso: Course 1, con una duracion de: 3 semanas y tiene un valor de: $234.33
+ Estudiante Inscrito: Natalia con cc.553
