@@ -4,7 +4,7 @@ const opciones = {idCurso:{demand:true},
                    nombre:{demand:true},
                    cedula:{demand:true}}
 
-const argv = require('yargs').command ('inscribirme','Curso a incribirse',opciones)
+const argv = require('yargs').command ('inscribir','Curso a incribirse',opciones)
 .argv;
 
 console.log(argv);
